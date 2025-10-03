@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pointman.TailwindLogin.Server", "Pointman.TailwindLogin.Server\Pointman.TailwindLogin.Server.csproj", "{D27BEE4B-DFEC-48E8-9314-6CB703310FB1}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "pointman.tailwindlogin.client", "pointman.tailwindlogin.client\pointman.tailwindlogin.client.esproj", "{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27BEE4B-DFEC-48E8-9314-6CB703310FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27BEE4B-DFEC-48E8-9314-6CB703310FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27BEE4B-DFEC-48E8-9314-6CB703310FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27BEE4B-DFEC-48E8-9314-6CB703310FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F7D5CE-68E3-475D-A736-2A7BB37C8D67}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB0E95F-2A94-4A58-9765-99E0DE8929F8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "2yxC9wHi2McmpitrjSNSkXBjAReZ9dVuM0O4E0ne9yU=",
+  "Source": "Pointman.TailwindLogin.Server",
+  "BasePath": "_content/Pointman.TailwindLogin.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\matmi\\source\\repos\\Pointman.TailwindLogin\\Pointman.TailwindLogin\\pointman.tailwindlogin.client\\pointman.tailwindlogin.client.esproj",
+      "Version": 2,
+      "Source": "pointman.tailwindlogin.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

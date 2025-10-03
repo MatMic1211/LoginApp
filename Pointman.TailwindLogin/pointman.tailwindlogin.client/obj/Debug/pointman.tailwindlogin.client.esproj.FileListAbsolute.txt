@@ -1,0 +1,1 @@
+C:\Users\matmi\source\repos\Pointman.TailwindLogin\Pointman.TailwindLogin\pointman.tailwindlogin.client\obj\Debug\pointman.tailwindlogin.client.esproj.CoreCompileInputs.cache
